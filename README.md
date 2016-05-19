@@ -163,7 +163,7 @@ Frontend unit tests using:
 to test redux action creators (as explain in [redux documentation](http://rackt.org/redux/docs/recipes/WritingTests.html))
 * [enzyme](https://github.com/airbnb/enzyme) to test react components
 
-Frontend fonctional tests using:
+Frontend functional tests using:
 
 * [Nightwatch.js](http://nightwatchjs.org/)
 
